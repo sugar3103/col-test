@@ -33,8 +33,14 @@ This template ships with the main React and Storybook configuration files you'll
     Open the `layout-ui` directory in your code editor of choice and building your first component!
 
 4.  **Testing**
-    To test the storybook first you need to start it first with the command `yarn storybook`
-    After that start the test with `yarn test`
+
+    ```shell
+    # To test the storybook first you need to start it first with the command
+    yarn storybook
+
+    # Open another terminal to start the test
+    yarn test
+    ```
 
 ## 🔎 What's inside?
 
